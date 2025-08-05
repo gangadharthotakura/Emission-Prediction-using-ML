@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Co2-Emission-Prediction-Using-Machine-Learning
 Final year Co2 Emission Prediction Using Machine Learning Project
 
@@ -35,3 +36,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 
 
+=======
+# Emission-Prediction-using-ML
+>>>>>>> 60ac7731135be55083b69a8ff52c414d7b1c2f8c
